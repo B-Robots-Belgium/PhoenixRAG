@@ -1,1 +1,3 @@
 # PhoenixRAG
+
+General starting project.
